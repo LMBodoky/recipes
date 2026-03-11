@@ -4,5 +4,7 @@
 - salt
   - pepper
 - paprika powder
-# Instructions
+- olive oil
+## Instructions
 put everything in a bowl and mash untill homogenus
+add everything to food processor
