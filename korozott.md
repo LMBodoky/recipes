@@ -7,5 +7,5 @@
 - olive oil
 ## Instructions
 put everything in a bowl and mash untill homogenus
-add everything to food processor
-this is a new line that is new
+don't add everything to food processor
+
