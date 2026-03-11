@@ -3,5 +3,6 @@
 - onion
 - salt
   - pepper
+- paprika powder
 # Instructions
-
+put everything in a bowl and mash untill homogenus
